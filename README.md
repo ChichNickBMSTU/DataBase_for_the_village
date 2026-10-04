@@ -10,19 +10,7 @@ The program is ideal for housing records, maintaining a rural registry, or perso
 
 Features:
 
-💾 Binary file storage — compact, fast, reliable
-📝 Full set of fields for each house:
-House material (brick, wood, block, etc.)
-Cost
-Year of construction
-Number of floors
-Owner's name
-🧭 Convenient and clear menu — navigation is intuitive and requires no instructions
-🔧 Easy to adapt to user needs — the data structure and menu can be easily modified for specific tasks
-➕ Add, view, edit, and delete records
-🔍 Search and filter by any field
-🚀 Quick Start
-Requirements:
+💾 Binary file storage — compact, fast, reliable📝 Full set of fields for each house:House material (brick, wood, block, etc.)CostYear of constructionNumber of floorsOwner's name🧭 Convenient and clear menu — navigation is intuitive and requires no instructions🔧 Easy to adapt to user needs — the data structure and menu can be easily modified for specific tasks➕ Add, view, edit, and delete records🔍 Search and filter by any field🚀 Quick StartRequirements:
 
 Any OS (Windows / Linux / macOS)
 C/C++ compiler (or the environment the program is adapted for)
