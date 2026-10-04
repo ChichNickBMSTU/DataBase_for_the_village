@@ -63,8 +63,6 @@ Developed for convenient accounting of houses in a village.
 > 💡 *If you have ideas for improvement — feel free to edit the code: the program is designed to be customized.*
 
 ---
-🇷🇺
----
 
 # 🏡 Village Database Manager
 
