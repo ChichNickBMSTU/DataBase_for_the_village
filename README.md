@@ -10,7 +10,20 @@ The program is ideal for housing records, maintaining a rural registry, or perso
 
 Features:
 
-💾 Binary file storage — compact, fast, reliable📝 Full set of fields for each house:House material (brick, wood, block, etc.)CostYear of constructionNumber of floorsOwner's name🧭 Convenient and clear menu — navigation is intuitive and requires no instructions🔧 Easy to adapt to user needs — the data structure and menu can be easily modified for specific tasks➕ Add, view, edit, and delete records🔍 Search and filter by any field🚀 Quick StartRequirements:
+-💾 Binary file storage — compact, fast, reliable
+-📝 Full set of fields for each house:
+  -House material (brick, wood, block, etc.)
+  -Cost
+  -Year of construction
+  -Number of floors
+  -Owner's name
+-🧭 Convenient and clear menu — navigation is intuitive and requires no instructions
+-🔧 Easy to adapt to user needs — the data structure and menu can be easily modified for specific tasks
+-➕ Add, view, edit, and delete records
+-🔍 Search and filter by any field
+-🚀 Quick 
+
+StartRequirements:
 
 Any OS (Windows / Linux / macOS)
 C/C++ compiler (or the environment the program is adapted for)
@@ -51,18 +64,19 @@ Village Database Manager — это консольное приложение, �
 
 ✨ Возможности
 
-💾 Хранение в двоичном файле — компактно, быстро, надёжно
-📝 Полный набор полей для каждого дома:
-Материал дома (кирпич, дерево, блок и т.д.)
-Стоимость
-Год постройки
-Этажность
-ФИО владельца
-🧭 Удобное и понятное меню — вся навигация интуитивна, не требует инструкций
-🔧 Лёгкая адаптация под нужды пользователя — структура данных и меню легко изменяются под конкретные задачи
-➕ Добавление, просмотр, редактирование и удаление записей
-🔍 Поиск и фильтрация по любому из полей
-🚀 Быстрый старт
+-💾 Хранение в двоичном файле — компактно, быстро, надёжно
+-📝 Полный набор полей для каждого дома:
+  -Материал дома (кирпич, дерево, блок и т.д.)
+  -Стоимость
+  -Год постройки
+  -Этажность
+  -ФИО владельца
+-🧭 Удобное и понятное меню — вся навигация интуитивна, не требует инструкций
+-🔧 Лёгкая адаптация под нужды пользователя — структура данных и меню легко изменяются под конкретные задачи
+-➕ Добавление, просмотр, редактирование и удаление записей
+-🔍 Поиск и фильтрация по любому из полей
+-🚀 Быстрый старт
+
 Требования
 
 Любая ОС (Windows / Linux / macOS)
